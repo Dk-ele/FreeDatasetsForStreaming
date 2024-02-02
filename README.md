@@ -4,7 +4,7 @@ An inventory of publicly available datasets, ideal for Personal or Enterprise Da
 
 In the below catalogue you can find mainly free to use APIs for personal or Enterprise Data Streaming projects, though at times due to unprecedented changes in the providers T&Cs the APIs have switched to paid versions. 
 
-Keeping up with the Joneses and all the T&Cs would escalate the effort required to maintain the following directory, so when a paid version API is identifieed, do inform and we will amend the list accordingly.  
+Keeping up with the Joneses and all the T&Cs would escalate the effort required to maintain the following directory, so when a paid version API is identified, do inform and we will amend the list accordingly.  
 
 **Cryptocurrency and Blockchain Data**
 
